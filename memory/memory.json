@@ -1,0 +1,90 @@
+{
+    "facts": {},
+    "conversation": [
+        {
+            "speaker": "User",
+            "text": "कल हमें कहीं घूमने जाना है, यह याद रखना है।",
+            "ts": "2025-11-25T14:40:11.577676"
+        },
+        {
+            "speaker": "User",
+            "text": " कल दिल्ली घूमने जाना है ",
+            "ts": "2025-11-25T14:40:51.840625"
+        },
+        {
+            "speaker": "user",
+            "text": "hello",
+            "timestamp": "2025-12-09T17:36:07.792556"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good evening sir! I am Jarvis, your personal AI assistant. How can I help you?",
+            "timestamp": "2025-12-09T17:36:07.988194"
+        },
+        {
+            "speaker": "user",
+            "text": "hello jarvis",
+            "timestamp": "2025-12-09T17:36:49.968482"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good evening sir! I am Jarvis, your personal AI assistant. How can I help you?",
+            "timestamp": "2025-12-09T17:36:50.170345"
+        },
+        {
+            "speaker": "user",
+            "text": "hello jarvis",
+            "timestamp": "2025-12-09T17:39:43.261055"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good evening sir! I am Jarvis, your personal AI assistant. How can I help you?",
+            "timestamp": "2025-12-09T17:39:43.445806"
+        },
+        {
+            "speaker": "user",
+            "text": "what is the time right now",
+            "timestamp": "2025-12-09T17:43:04.922172"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "The time is 05:43 PM",
+            "timestamp": "2025-12-09T17:43:05.117366"
+        },
+        {
+            "speaker": "user",
+            "text": "hello jarvis",
+            "timestamp": "2025-12-09T17:47:35.223645"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good evening sir! I am Jarvis, your personal AI assistant. How can I help you?",
+            "timestamp": "2025-12-09T17:47:35.412130"
+        },
+        {
+            "speaker": "user",
+            "text": "what is the time right now",
+            "timestamp": "2025-12-09T17:47:57.139830"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "The time is 05:47 PM",
+            "timestamp": "2025-12-09T17:47:57.321308"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-09T17:48:08.465397"
+        },
+        {
+            "speaker": "user",
+            "text": "open chrome",
+            "timestamp": "2025-12-09T17:48:13.549299"
+        },
+        {
+            "speaker": "user",
+            "text": "open",
+            "timestamp": "2025-12-09T17:48:24.889777"
+        }
+    ]
+}
