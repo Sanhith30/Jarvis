@@ -9,7 +9,7 @@
 
 **The Ultimate Personal AI Assistant with 50+ Advanced Features**
 
-*Designed by Sanhith from Ramannapalem, Andhra Pradesh*
+*Designed by Sanhith*
 
 </div>
 
