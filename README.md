@@ -1,4 +1,4 @@
-# 🤖 JARVIS ULTIMATE - The Most Powerful AI Assistant Ever Created
+# JARVIS ULTIMATE - The Most Powerful AI Assistant Ever Created
 
 <div align="center">
 
@@ -15,9 +15,9 @@
 
 ---
 
-## 🆚 **HOW JARVIS ULTIMATE DESTROYS REGULAR JARVIS ASSISTANTS**
+## **HOW JARVIS ULTIMATE DESTROYS REGULAR JARVIS ASSISTANTS**
 
-### 🔥 **REGULAR JARVIS vs JARVIS ULTIMATE - THE ULTIMATE COMPARISON**
+###  **REGULAR JARVIS vs JARVIS ULTIMATE - THE ULTIMATE COMPARISON**
 
 | Feature | Regular Jarvis | **JARVIS ULTIMATE** |
 |---------|----------------|-------------------|
