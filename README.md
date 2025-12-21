@@ -429,7 +429,7 @@ python jarvis_ultimate.py
 
 ---
 
-## 🎯 **COMPLETE USAGE GUIDE**
+##  **COMPLETE USAGE GUIDE**
 
 ### 🗣️ **Basic Voice Commands**
 
