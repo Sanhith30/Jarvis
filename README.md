@@ -136,7 +136,7 @@ Jarvis Ultimate isn't just another chatbot - it's a **revolutionary AI companion
 - 🎬 **Entertainment AI** - movie recommendations, mood-based music
 - 💼 **Productivity Suite** - todo lists, reminders, meeting scheduler
 - 🔐 **Security Tools** - password generation, QR codes, encryption
-- 👨‍👩‍👧‍👦 **Family Personality Modes** - different responses for family members
+-  **Family Personality Modes** - different responses for family members
 - 😂 **Emotional Intelligence** - funny mode, spiritual mode, conversational AI
 - 🧠 **Perfect Memory** - remembers all conversations and learns from them
 
