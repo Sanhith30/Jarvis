@@ -49,7 +49,7 @@
   - Posts to social media platforms
   - **REAL-WORLD COMMUNICATION!**
 
-#### 🤖 **3. AI CAPABILITIES**
+####  **3. AI CAPABILITIES**
 - **Regular Jarvis**: Can't create anything
 - **JARVIS ULTIMATE**:
   - Generates working code in Python, JavaScript, HTML
