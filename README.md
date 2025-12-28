@@ -34,7 +34,7 @@
 | **Voice Control** | Limited commands | **NATURAL CONVERSATION** |
 | **Learning** | Static | **LEARNS AND IMPROVES** |
 
-### 🚀 **REVOLUTIONARY DIFFERENCES THAT MAKE JARVIS ULTIMATE SUPERIOR**
+### **REVOLUTIONARY DIFFERENCES THAT MAKE JARVIS ULTIMATE SUPERIOR**
 
 #### 🧠 **1. INTELLIGENCE LEVEL**
 - **Regular Jarvis**: Basic command recognition, robotic responses
