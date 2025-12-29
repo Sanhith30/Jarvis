@@ -36,7 +36,7 @@
 
 ### **REVOLUTIONARY DIFFERENCES THAT MAKE JARVIS ULTIMATE SUPERIOR**
 
-#### 🧠 **1. INTELLIGENCE LEVEL**
+#### **1. INTELLIGENCE LEVEL**
 - **Regular Jarvis**: Basic command recognition, robotic responses
 - **JARVIS ULTIMATE**: Advanced AI with emotional intelligence, context awareness, and learning capabilities
 
