@@ -40,7 +40,7 @@
 - **Regular Jarvis**: Basic command recognition, robotic responses
 - **JARVIS ULTIMATE**: Advanced AI with emotional intelligence, context awareness, and learning capabilities
 
-#### 💬 **2. COMMUNICATION POWER**
+####  **2. COMMUNICATION POWER**
 - **Regular Jarvis**: "I can tell you the time"
 - **JARVIS ULTIMATE**: 
   - Sends actual WhatsApp messages to real people
