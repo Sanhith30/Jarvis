@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jarvis Voice Assistant - Test Client</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #1a1a1a;
+            color: #fff;
+        }
+        .container {
+            background: #2a2a2a;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+        }
+        h1 {
+            color: #4CAF50;
+            text-align: center;
+        }
+        .status {
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .status.disconnected { background: #f44336; }
+        .status.connecting { background: #ff9800; }
+        .status.connected { background: #4CAF50; }
+        button {
+            width: 100%;
+            padding: 15px;
+            margin: 10px 0;
+            font-size: 16px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            background: #4CAF50;
+            color: white;
+            font-weight: bold;
+        }
+        button:hover { background: #45a049; }
+        button:disabled {
+            background: #666;
+            cursor: not-allowed;
+        }
+        .info {
+            background: #333;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        .info p { margin: 10px 0; }
+        .info code {
+            background: #444;
+            padding: 2px 6px;
+            border-radius: 3px;
+            color: #4CAF50;
+        }
+        #messages {
+            background: #333;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        .message {
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .message.user { background: #1976D2; }
+        .message.agent { background: #388E3C; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🤖 Jarvis Voice Assistant</h1>
+        
+        <div id="status" class="status disconnected">
+            Disconnected
+        </div>
+
+        <div class="info">
+            <h3>Setup Instructions:</h3>
+            <p><strong>1.</strong> Make sure your agent is running:</p>
+            <code>python agent.py dev</code>
+            
+            <p><strong>2.</strong> You need to generate a LiveKit token to connect.</p>
+            <p><strong>3.</strong> Go to your LiveKit dashboard and create a token for a room.</p>
+            <p><strong>4.</strong> Or use LiveKit's Playground at: <a href="https://cloud.livekit.io" target="_blank">cloud.livekit.io</a></p>
+        </div>
+
+        <div class="info">
+            <h3>Alternative: Use LiveKit Meet</h3>
+            <p>The easiest way to test is to use LiveKit Meet:</p>
+            <ol>
+                <li>Go to <a href="https://meet.livekit.io" target="_blank">meet.livekit.io</a></li>
+                <li>Enter your LiveKit URL: <code>wss://javis-ifb5aofu.livekit.cloud</code></li>
+                <li>Generate a token from your dashboard</li>
+                <li>Join a room - Jarvis will automatically join!</li>
+            </ol>
+        </div>
+
+        <div id="messages">
+            <h3>Messages:</h3>
+            <p style="color: #888;">Waiting for connection...</p>
+        </div>
+
+        <div class="info">
+            <h3>Voice Commands to Try:</h3>
+            <ul>
+                <li>"What's the current time?"</li>
+                <li>"Search Google for Python tutorials"</li>
+                <li>"What's the weather in New York?"</li>
+                <li>"Take a screenshot"</li>
+                <li>"Open Chrome"</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // This is a placeholder - you need LiveKit SDK to actually connect
+        // For now, this page just shows instructions
+        console.log('To connect to Jarvis, use LiveKit Meet or implement LiveKit SDK');
+    </script>
+</body>
+</html>

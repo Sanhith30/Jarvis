@@ -1,0 +1,865 @@
+{
+    "facts": {},
+    "conversation": [
+        {
+            "speaker": "User",
+            "text": "कल हमें कहीं घूमने जाना है, यह याद रखना है।",
+            "ts": "2025-11-25T14:40:11.577676"
+        },
+        {
+            "speaker": "User",
+            "text": " कल दिल्ली घूमने जाना है ",
+            "ts": "2025-11-25T14:40:51.840625"
+        },
+        {
+            "speaker": "user",
+            "text": "hello",
+            "timestamp": "2025-12-09T17:36:07.792556"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good evening sir! I am Jarvis, your personal AI assistant. How can I help you?",
+            "timestamp": "2025-12-09T17:36:07.988194"
+        },
+        {
+            "speaker": "user",
+            "text": "hello jarvis",
+            "timestamp": "2025-12-09T17:36:49.968482"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good evening sir! I am Jarvis, your personal AI assistant. How can I help you?",
+            "timestamp": "2025-12-09T17:36:50.170345"
+        },
+        {
+            "speaker": "user",
+            "text": "hello jarvis",
+            "timestamp": "2025-12-09T17:39:43.261055"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good evening sir! I am Jarvis, your personal AI assistant. How can I help you?",
+            "timestamp": "2025-12-09T17:39:43.445806"
+        },
+        {
+            "speaker": "user",
+            "text": "what is the time right now",
+            "timestamp": "2025-12-09T17:43:04.922172"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "The time is 05:43 PM",
+            "timestamp": "2025-12-09T17:43:05.117366"
+        },
+        {
+            "speaker": "user",
+            "text": "hello jarvis",
+            "timestamp": "2025-12-09T17:47:35.223645"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good evening sir! I am Jarvis, your personal AI assistant. How can I help you?",
+            "timestamp": "2025-12-09T17:47:35.412130"
+        },
+        {
+            "speaker": "user",
+            "text": "what is the time right now",
+            "timestamp": "2025-12-09T17:47:57.139830"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "The time is 05:47 PM",
+            "timestamp": "2025-12-09T17:47:57.321308"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-09T17:48:08.465397"
+        },
+        {
+            "speaker": "user",
+            "text": "open chrome",
+            "timestamp": "2025-12-09T17:48:13.549299"
+        },
+        {
+            "speaker": "user",
+            "text": "open",
+            "timestamp": "2025-12-09T17:48:24.889777"
+        },
+        {
+            "speaker": "user",
+            "text": "open notepad and type face",
+            "timestamp": "2025-12-13T21:14:17.529758"
+        },
+        {
+            "speaker": "user",
+            "text": "un type jarvis",
+            "timestamp": "2025-12-13T21:14:31.634755"
+        },
+        {
+            "speaker": "user",
+            "text": "type jarvis on notepad",
+            "timestamp": "2025-12-13T21:14:50.383385"
+        },
+        {
+            "speaker": "user",
+            "text": "hello how are you",
+            "timestamp": "2025-12-13T21:23:43.966408"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Good night sir! I'm here and ready to help. What's on your agenda?",
+            "timestamp": "2025-12-13T21:23:49.450511"
+        },
+        {
+            "speaker": "user",
+            "text": "open notepad",
+            "timestamp": "2025-12-13T21:23:54.436096"
+        },
+        {
+            "speaker": "user",
+            "text": "can you open whatsapp",
+            "timestamp": "2025-12-13T21:24:03.337844"
+        },
+        {
+            "speaker": "user",
+            "text": "open youtube and play believer song",
+            "timestamp": "2025-12-13T21:30:32.985466"
+        },
+        {
+            "speaker": "user",
+            "text": "ok can you play any telugu song on youtube",
+            "timestamp": "2025-12-13T21:30:59.327735"
+        },
+        {
+            "speaker": "user",
+            "text": "tell me a joke",
+            "timestamp": "2025-12-13T21:31:29.968834"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "What do you call a dinosaur that crashes his car? Tyrannosaurus Wrecks!",
+            "timestamp": "2025-12-13T21:31:35.363818"
+        },
+        {
+            "speaker": "user",
+            "text": "hello how are you",
+            "timestamp": "2025-12-13T21:49:16.518114"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Greetings sir! All systems online. What adventure shall we embark on today?",
+            "timestamp": "2025-12-13T21:49:22.651438"
+        },
+        {
+            "speaker": "user",
+            "text": "ok can you open google and search for the best python tutorial",
+            "timestamp": "2025-12-13T21:49:29.800958"
+        },
+        {
+            "speaker": "user",
+            "text": "but you didn't open",
+            "timestamp": "2025-12-13T21:49:45.192848"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-13T21:50:05.247044"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-13T21:50:13.757518"
+        },
+        {
+            "speaker": "user",
+            "text": "song on youtube",
+            "timestamp": "2025-12-13T21:50:24.360508"
+        },
+        {
+            "speaker": "user",
+            "text": "notepad and type who are you",
+            "timestamp": "2025-12-13T21:50:35.403856"
+        },
+        {
+            "speaker": "user",
+            "text": "i love you song",
+            "timestamp": "2025-12-13T21:50:52.840295"
+        },
+        {
+            "speaker": "user",
+            "text": "open youtube",
+            "timestamp": "2025-12-13T21:51:23.242311"
+        },
+        {
+            "speaker": "user",
+            "text": "open google chrome",
+            "timestamp": "2025-12-13T21:51:38.808997"
+        },
+        {
+            "speaker": "user",
+            "text": "open youtube",
+            "timestamp": "2025-12-13T21:51:58.338025"
+        },
+        {
+            "speaker": "user",
+            "text": "open youtube and play believer song",
+            "timestamp": "2025-12-13T21:52:10.122934"
+        },
+        {
+            "speaker": "user",
+            "text": "ok quit ok quit",
+            "timestamp": "2025-12-13T21:52:31.816386"
+        },
+        {
+            "speaker": "user",
+            "text": "devotional mode",
+            "timestamp": "2025-12-14T10:48:14.552712"
+        },
+        {
+            "speaker": "user",
+            "text": "devotional mode",
+            "timestamp": "2025-12-14T10:48:24.791316"
+        },
+        {
+            "speaker": "user",
+            "text": "emotional mod",
+            "timestamp": "2025-12-14T10:48:39.227232"
+        },
+        {
+            "speaker": "user",
+            "text": "devotional",
+            "timestamp": "2025-12-14T10:48:50.678300"
+        },
+        {
+            "speaker": "user",
+            "text": "devotional mode",
+            "timestamp": "2025-12-14T10:49:00.243220"
+        },
+        {
+            "speaker": "user",
+            "text": "turn on devotion",
+            "timestamp": "2025-12-14T10:49:21.463896"
+        },
+        {
+            "speaker": "user",
+            "text": "open youtube and play ramaiya vastava",
+            "timestamp": "2025-12-14T10:49:32.933546"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-14T10:50:35.606861"
+        },
+        {
+            "speaker": "user",
+            "text": "ok qu",
+            "timestamp": "2025-12-14T10:50:43.914954"
+        },
+        {
+            "speaker": "user",
+            "text": "turn on spiritual mode",
+            "timestamp": "2025-12-14T10:52:58.635259"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Jai Shri Ram 🙏 | Spiritual protocol has been activated sir — I am now in devotion mode.\n\nFirst, greetings to all deities 🙏\n\nLord Shri Ram: The epitome of righteousness, symbol of truth and dharma.\nLord Shri Krishna: Giver of love, wisdom, and knowledge.\nLord Shiva: The destroyer and god of rebirth, whose glory is infinite.\nLord Vishnu: The preserver, who maintains the balance of creation.\nLord Ganesha: Remover of obstacles, god of wisdom and beginnings.\nGoddess Durga: Symbol of power and courage, who destroys evil.\nGoddess Lakshmi: Goddess of wealth, prosperity and fortune.\nGoddess Saraswati: Goddess of knowledge, learning and music.\nHanuman Ji: Symbol of unwavering devotion, strength and dedication.\n\nSpiritual mode is now active, sir.",
+            "timestamp": "2025-12-14T10:53:51.796533"
+        },
+        {
+            "speaker": "user",
+            "text": "can you open whatsapp",
+            "timestamp": "2025-12-14T10:54:00.800420"
+        },
+        {
+            "speaker": "user",
+            "text": "open chrome",
+            "timestamp": "2025-12-14T10:54:09.021389"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-14T10:54:59.478256"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-14T11:02:00.500083"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-14T11:02:09.607727"
+        },
+        {
+            "speaker": "user",
+            "text": "notepad and type hi sangeet",
+            "timestamp": "2025-12-14T11:02:28.091364"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "I am Jarvis 2.0, your personal AI assistant, designed by sanhith. Good morning! Good morning, sanhith! How can I assist you today?",
+            "timestamp": "2025-12-14T11:02:39.431084"
+        },
+        {
+            "speaker": "user",
+            "text": "open notepad and type hi circuit",
+            "timestamp": "2025-12-14T11:02:46.904641"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "I am Jarvis 2.0, your personal AI assistant, designed by sanhith. Good morning! Good morning, sanhith! How can I assist you today?",
+            "timestamp": "2025-12-14T11:02:58.241558"
+        },
+        {
+            "speaker": "user",
+            "text": "open notepad and type what is the time right",
+            "timestamp": "2025-12-14T11:03:05.304645"
+        },
+        {
+            "speaker": "user",
+            "text": "open notepad and type python in ja",
+            "timestamp": "2025-12-14T11:03:15.700896"
+        },
+        {
+            "speaker": "user",
+            "text": "best youtube tutorial",
+            "timestamp": "2025-12-14T11:03:45.781356"
+        },
+        {
+            "speaker": "user",
+            "text": "open spotify and play songs",
+            "timestamp": "2025-12-14T11:04:03.485207"
+        },
+        {
+            "speaker": "user",
+            "text": "open spotify",
+            "timestamp": "2025-12-14T11:04:21.945005"
+        },
+        {
+            "speaker": "user",
+            "text": "play song on spotify",
+            "timestamp": "2025-12-14T11:04:39.890650"
+        },
+        {
+            "speaker": "user",
+            "text": "what is the weather right now",
+            "timestamp": "2025-12-14T11:05:07.076823"
+        },
+        {
+            "speaker": "user",
+            "text": "weather in chennai",
+            "timestamp": "2025-12-14T11:05:46.689535"
+        },
+        {
+            "speaker": "user",
+            "text": "ok you can quit",
+            "timestamp": "2025-12-14T11:06:14.933226"
+        },
+        {
+            "speaker": "user",
+            "text": "message sangeet you on whatsapp",
+            "timestamp": "2025-12-14T11:09:12.512729"
+        },
+        {
+            "speaker": "user",
+            "text": "whatsapp message",
+            "timestamp": "2025-12-14T13:51:42.947734"
+        },
+        {
+            "speaker": "user",
+            "text": "i will be tomorrow to 93816 91832",
+            "timestamp": "2025-12-14T13:52:04.178937"
+        },
+        {
+            "speaker": "user",
+            "text": "send whatsapp message to",
+            "timestamp": "2025-12-14T13:52:15.181114"
+        },
+        {
+            "speaker": "user",
+            "text": "ok thank you",
+            "timestamp": "2025-12-14T13:53:02.800538"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Anytime, sir! Your satisfaction is my primary directive!",
+            "timestamp": "2025-12-14T13:53:07.993988"
+        },
+        {
+            "speaker": "user",
+            "text": "i was feeling the bore",
+            "timestamp": "2025-12-14T13:53:22.641879"
+        },
+        {
+            "speaker": "user",
+            "text": "feeling bored can you",
+            "timestamp": "2025-12-14T13:53:33.686437"
+        },
+        {
+            "speaker": "user",
+            "text": "whatsapp",
+            "timestamp": "2025-12-15T18:58:13.302444"
+        },
+        {
+            "speaker": "user",
+            "text": "open youtube",
+            "timestamp": "2025-12-15T18:58:32.999999"
+        },
+        {
+            "speaker": "user",
+            "text": "open chrome",
+            "timestamp": "2025-12-15T18:58:49.356613"
+        },
+        {
+            "speaker": "user",
+            "text": "play believer song",
+            "timestamp": "2025-12-15T18:59:06.723407"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2025-12-15T18:59:39.247447"
+        },
+        {
+            "speaker": "user",
+            "text": "can you talk with my",
+            "timestamp": "2025-12-15T18:59:49.472030"
+        },
+        {
+            "speaker": "user",
+            "text": "play believer song on youtube",
+            "timestamp": "2025-12-15T19:36:59.139213"
+        },
+        {
+            "speaker": "user",
+            "text": "play song on youtube telugu song",
+            "timestamp": "2025-12-15T19:37:24.232733"
+        },
+        {
+            "speaker": "user",
+            "text": "i want to listen a",
+            "timestamp": "2026-01-02T09:14:20.834155"
+        },
+        {
+            "speaker": "user",
+            "text": "the song name is let me down",
+            "timestamp": "2026-01-02T09:14:38.443324"
+        },
+        {
+            "speaker": "user",
+            "text": "song name",
+            "timestamp": "2026-01-02T09:14:47.554667"
+        },
+        {
+            "speaker": "user",
+            "text": "let me down song on youtube",
+            "timestamp": "2026-01-02T09:14:59.538283"
+        },
+        {
+            "speaker": "user",
+            "text": "play telugu song on youtube",
+            "timestamp": "2026-01-02T09:15:12.193080"
+        },
+        {
+            "speaker": "user",
+            "text": "open chrome",
+            "timestamp": "2026-01-02T09:16:16.143000"
+        },
+        {
+            "speaker": "user",
+            "text": "open youtube and play telugu song",
+            "timestamp": "2026-01-13T08:19:47.610885"
+        },
+        {
+            "speaker": "user",
+            "text": "ok play song on",
+            "timestamp": "2026-01-13T08:26:48.786597"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing ok  sg on YouTube",
+            "timestamp": "2026-01-13T08:27:03.593696"
+        },
+        {
+            "speaker": "user",
+            "text": "jarvis play believer song",
+            "timestamp": "2026-01-13T08:27:28.487209"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "I am Jarvis 2.0, your personal AI assistant, designed by sanhith. Good morning! Good morning, sanhith! How can I assist you today?",
+            "timestamp": "2026-01-13T08:27:39.824414"
+        },
+        {
+            "speaker": "user",
+            "text": "play believer song",
+            "timestamp": "2026-01-13T08:27:45.140399"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing believer sg on YouTube",
+            "timestamp": "2026-01-13T08:27:59.677612"
+        },
+        {
+            "speaker": "user",
+            "text": "play believer song on youtube",
+            "timestamp": "2026-01-13T08:36:44.790958"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing believer sg on YouTube",
+            "timestamp": "2026-01-13T08:37:09.250892"
+        },
+        {
+            "speaker": "user",
+            "text": "play believer song",
+            "timestamp": "2026-01-13T08:43:24.307371"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing believer sg on YouTube",
+            "timestamp": "2026-01-13T08:43:48.667210"
+        },
+        {
+            "speaker": "user",
+            "text": "jarvis are you there",
+            "timestamp": "2026-01-13T08:45:08.151188"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "I am Jarvis 2.0, your personal AI assistant, designed by sanhith. Good morning! Good morning, sanhith! How can I assist you today?",
+            "timestamp": "2026-01-13T08:45:19.444115"
+        },
+        {
+            "speaker": "user",
+            "text": "play telugu song on youtube",
+            "timestamp": "2026-01-13T08:45:26.601019"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing telugu sg on YouTube",
+            "timestamp": "2026-01-13T08:45:50.951263"
+        },
+        {
+            "speaker": "user",
+            "text": "play telugu song on youtube",
+            "timestamp": "2026-01-13T08:53:50.258235"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing telugu song on YouTube",
+            "timestamp": "2026-01-13T08:54:15.103209"
+        },
+        {
+            "speaker": "user",
+            "text": "ok quit",
+            "timestamp": "2026-01-13T08:54:45.180784"
+        },
+        {
+            "speaker": "user",
+            "text": "play telugu song on youtube",
+            "timestamp": "2026-01-13T09:02:07.520851"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing telugu song on YouTube",
+            "timestamp": "2026-01-13T09:02:24.784972"
+        },
+        {
+            "speaker": "user",
+            "text": "jarvis",
+            "timestamp": "2026-01-13T09:02:55.117002"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "I am Jarvis 2.0, your personal AI assistant, designed by sanhith. Good morning! Good morning, sanhith! How can I assist you today?",
+            "timestamp": "2026-01-13T09:03:06.396102"
+        },
+        {
+            "speaker": "user",
+            "text": "nikaah song on youtube",
+            "timestamp": "2026-01-13T09:03:11.697570"
+        },
+        {
+            "speaker": "user",
+            "text": "play mounika song on youtube",
+            "timestamp": "2026-01-13T09:03:22.603797"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing mounika song on YouTube",
+            "timestamp": "2026-01-13T09:03:39.711462"
+        },
+        {
+            "speaker": "user",
+            "text": "open google chrome",
+            "timestamp": "2026-01-13T09:05:38.215334"
+        },
+        {
+            "speaker": "user",
+            "text": "open spotify and play song",
+            "timestamp": "2026-01-13T09:06:00.190270"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing open and song on Spotify",
+            "timestamp": "2026-01-13T09:06:17.936886"
+        },
+        {
+            "speaker": "user",
+            "text": "open spotify app",
+            "timestamp": "2026-01-13T09:06:43.885262"
+        },
+        {
+            "speaker": "user",
+            "text": "sorry",
+            "timestamp": "2026-01-13T09:06:54.979440"
+        },
+        {
+            "speaker": "user",
+            "text": "evening 6:00",
+            "timestamp": "2026-01-13T09:07:13.612426"
+        },
+        {
+            "speaker": "user",
+            "text": "what is the time right now",
+            "timestamp": "2026-01-13T09:07:35.749435"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2026-01-13T09:08:10.987331"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2026-01-13T09:13:33.684213"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "🚀 App launched via Start search and focused: whats.",
+            "timestamp": "2026-01-13T09:13:44.036638"
+        },
+        {
+            "speaker": "user",
+            "text": "accept my life",
+            "timestamp": "2026-01-13T09:13:57.903086"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T09:26:09.148813"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "🚀 App launched via Start search and focused: whats and send message.",
+            "timestamp": "2026-01-13T09:26:21.728713"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp",
+            "timestamp": "2026-01-13T09:28:06.640749"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T09:31:07.691569"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "🚀 App launched via Start search and focused: whats and send message.",
+            "timestamp": "2026-01-13T09:31:20.279374"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T09:37:35.292299"
+        },
+        {
+            "speaker": "user",
+            "text": "9290 923343",
+            "timestamp": "2026-01-13T09:38:15.808474"
+        },
+        {
+            "speaker": "user",
+            "text": "please play believer song on youtube",
+            "timestamp": "2026-01-13T09:42:02.309581"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "Playing please believer song on YouTube",
+            "timestamp": "2026-01-13T09:42:19.788338"
+        },
+        {
+            "speaker": "user",
+            "text": "you know where is the whatsapp need to share",
+            "timestamp": "2026-01-13T09:42:54.563826"
+        },
+        {
+            "speaker": "user",
+            "text": "ok quit",
+            "timestamp": "2026-01-13T09:43:10.243588"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T10:21:10.454142"
+        },
+        {
+            "speaker": "user",
+            "text": "how are you",
+            "timestamp": "2026-01-13T10:21:48.097189"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "All systems running smoothly, sir. How can I help make your day more productive?",
+            "timestamp": "2026-01-13T10:21:53.928739"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T10:22:19.255525"
+        },
+        {
+            "speaker": "user",
+            "text": "kavita",
+            "timestamp": "2026-01-13T10:22:48.060456"
+        },
+        {
+            "speaker": "user",
+            "text": "+ 91 9290 923343",
+            "timestamp": "2026-01-13T10:23:00.901530"
+        },
+        {
+            "speaker": "user",
+            "text": "ok quit",
+            "timestamp": "2026-01-13T10:23:14.857614"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T10:26:52.868884"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "WhatsApp message sent to + 919290 9 2 3 3 4 3: how are you",
+            "timestamp": "2026-01-13T10:27:58.466088"
+        },
+        {
+            "speaker": "user",
+            "text": "china how are you",
+            "timestamp": "2026-01-13T10:28:11.087219"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "All subsystems nominal, sir. What adventure shall we embark on today?",
+            "timestamp": "2026-01-13T10:28:16.682909"
+        },
+        {
+            "speaker": "user",
+            "text": "did you know my brother",
+            "timestamp": "2026-01-13T10:28:21.400785"
+        },
+        {
+            "speaker": "user",
+            "text": "talk to my brother",
+            "timestamp": "2026-01-13T10:28:47.465156"
+        },
+        {
+            "speaker": "user",
+            "text": "talk to mum",
+            "timestamp": "2026-01-13T10:29:04.253668"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T10:29:14.394197"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "WhatsApp message sent to + 91 9290 923343: how are you",
+            "timestamp": "2026-01-13T10:30:08.690351"
+        },
+        {
+            "speaker": "user",
+            "text": "tum delete",
+            "timestamp": "2026-01-13T10:30:16.754496"
+        },
+        {
+            "speaker": "user",
+            "text": "ccc",
+            "timestamp": "2026-01-13T10:31:03.551119"
+        },
+        {
+            "speaker": "user",
+            "text": "keep darshan",
+            "timestamp": "2026-01-13T10:31:15.260215"
+        },
+        {
+            "speaker": "user",
+            "text": "what is here for me",
+            "timestamp": "2026-01-13T10:36:32.345072"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T10:36:51.821768"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "✅ WhatsApp message sent to + 91 9290 923343: 'send me rs 1000'",
+            "timestamp": "2026-01-13T10:37:42.797467"
+        },
+        {
+            "speaker": "user",
+            "text": "open whatsapp and send message",
+            "timestamp": "2026-01-13T10:43:02.221862"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "✅ WhatsApp message sent to 9192 90923 343: 'send me rs 1000'",
+            "timestamp": "2026-01-13T10:43:53.945837"
+        },
+        {
+            "speaker": "user",
+            "text": "hu r u",
+            "timestamp": "2026-01-13T10:45:34.070171"
+        },
+        {
+            "speaker": "user",
+            "text": "how can you help me",
+            "timestamp": "2026-01-13T10:45:43.331420"
+        },
+        {
+            "speaker": "user",
+            "text": "what can you done for me",
+            "timestamp": "2026-01-13T10:45:57.131516"
+        },
+        {
+            "speaker": "user",
+            "text": "ok open google chrome",
+            "timestamp": "2026-01-13T10:46:24.312161"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "🚀 App launched and focused: ok  google chrome.",
+            "timestamp": "2026-01-13T10:46:37.103313"
+        },
+        {
+            "speaker": "user",
+            "text": "ok quit",
+            "timestamp": "2026-01-13T10:46:41.830880"
+        },
+        {
+            "speaker": "user",
+            "text": "whatsapp and send message",
+            "timestamp": "2026-01-13T10:47:35.584634"
+        },
+        {
+            "speaker": "jarvis",
+            "text": "✅ WhatsApp message sent to + 91 9290 923343: 'send me rs 10000'",
+            "timestamp": "2026-01-13T10:48:23.514064"
+        }
+    ]
+}
