@@ -17,7 +17,7 @@
 
 ---
 
-## 🆚 JARVIS ULTIMATE vs REGULAR JARVIS
+##  JARVIS ULTIMATE vs REGULAR JARVIS
 
 | Feature | Regular Jarvis | **JARVIS ULTIMATE** |
 |---------|----------------|-------------------|
