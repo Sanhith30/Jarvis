@@ -57,7 +57,7 @@
 - 🎬 **Movie Recommendations**: AI-powered suggestions based on mood
 - 🎵 **Mood Music**: Play music matching your current mood
 
-### 👨‍👩‍👧‍👦 **FAMILY PERSONALITY MODES**
+###  **FAMILY PERSONALITY MODES**
 - Different personalities for mom, dad, brother, sister, friends
 - Emotional intelligence with funny mode and spiritual mode
 - Context-aware responses based on who you're talking to
