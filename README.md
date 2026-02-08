@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 WHAT MAKES JARVIS ULTIMATE REVOLUTIONARY?
+## WHAT MAKES JARVIS ULTIMATE REVOLUTIONARY?
 
 ### 🎵 **ENHANCED MUSIC FEATURES**
 - ✅ **Auto-Play**: Songs start playing automatically, not just searching!
