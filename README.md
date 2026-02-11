@@ -36,7 +36,7 @@
 
 ## WHAT MAKES JARVIS ULTIMATE REVOLUTIONARY?
 
-### 🎵 **ENHANCED MUSIC FEATURES**
+###  **ENHANCED MUSIC FEATURES**
 - ✅ **Auto-Play**: Songs start playing automatically, not just searching!
 - ✅ **Multi-App Support**: YouTube, Spotify, YouTube Music, SoundCloud, Gaana, JioSaavn, Apple Music
 - ✅ **Smart Detection**: Automatically clicks first result and starts playback
